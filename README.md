@@ -1,1 +1,1 @@
-Este projeto é apenas para aprender gitpode.io
+Este projeto é apenas para aprender gitpod.io
